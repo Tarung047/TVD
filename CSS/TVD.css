@@ -1,0 +1,35 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    font-size:30px ;
+}
+.col{
+    background-color: rgb(191, 221, 196);
+    border: 1px solid black;
+    height: 860px;
+}
+h2{
+    text-align: center;
+    background-image: url("drum_img/crash.png");
+
+}
+.colm{
+    text-align: center;
+    margin: 60px 0px 0px;
+    padding: 20px;
+}
+.footer{
+    background-color: #a4bdd0;
+    padding: 80px;
+    text-align: center;
+    font-size: xx-large;
+}
+.footer a{
+    padding: 10px;
+}
+
+.copyright {
+    text-align: center;
+    color: #EAF6F6;
+    font-size: xx-large;
+    padding: 10px 0;
+}
